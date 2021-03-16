@@ -1,6 +1,6 @@
 // Only change code below this line
 function convertToInt(str) {
-        return parseInt(str);
+        return parseInt(str,16);
     
 }
 convertToInt();
